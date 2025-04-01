@@ -1,0 +1,9 @@
+chromadb
+google-generativeai
+langchain
+openai
+pdf2image
+pypdf
+pytesseract
+python-dotenv
+sentence-transformers
